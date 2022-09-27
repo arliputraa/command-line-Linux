@@ -1,21 +1,19 @@
-# Command-line-Linux
+# Command Linux Basic
 
-head file.csv = membuka isi file 
-  
-vi = untuk mengubah isi file 
-  
-i = untuk mengedit
-  
-Esc = keluar
-  
-:wq = untuk save dan keluar
-  
-:q = untuk keluar tidak save
-  
-cd = masuk ke directory 
-  
-cd .. = kembali ke directory sebelumnya
-  
-cd ~ = kembali langsung ke directory home
-  
-wc -l = untuk melihat jumlah row
+
+command | description |
+--- | --- |
+head | open file from top |
+head -2 | open file from 2 top |
+vi | open and changes file contents |
+i | for edit in editor vi |
+Esc | exit in editor vi  |
+:wq | for save and exit in vi |
+:q | for exit not save in vi |
+cd | open directory |
+cd .. | back to the previous directory |
+cd ~ | return to directory home |
+wc -l | for see number of row |
+
+
+
