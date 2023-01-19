@@ -19,7 +19,6 @@ rm -rf | delete directory |
 du -kh | see storage in directory |
 df -kh | see all storage path file | 
 nano | open and changes file contents (teks editor) |
-
 sudo dpkg-reconfigure tzdata | set time |
 
 
